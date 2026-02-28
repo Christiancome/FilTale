@@ -27,6 +27,9 @@ nav a {
     border-radius: 50px;
     text-decoration: none;
     display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
     transition: background 0.3s;
 }
 
