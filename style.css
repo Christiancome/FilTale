@@ -21,7 +21,7 @@ nav {
 
 nav a {
     width: 160px;
-    height: 35px;
+    padding: 10px 20px;
     background: linear-gradient(to bottom right, #3b2b0f, #a67c00);
     opacity: .5;
     border-radius: 50px;
